@@ -57,6 +57,17 @@ export default function Home() {
         </p>
         <p
           style={{
+            marginTop: "2em",
+          }}
+        >
+          Any questions about the Iceland?
+          <br />
+          Ask me via email <a href="mailto:ondrej@ondrejsika.com">ondrej@ondrejsika.com</a> or <a href="https://t.me/ondrejsika" target="_blank">
+            @ondrejsika
+          </a> on Telegram
+        </p>
+        <p
+          style={{
             marginTop: "3em",
           }}
         >
