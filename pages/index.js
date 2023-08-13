@@ -35,6 +35,26 @@ export default function Home() {
             City Car Rental Iceland
           </a>, cheap & proven car rental
         </p>
+        <h4 style={{ margin: "2em 0 0 0" }}>Photos</h4>
+        <p>
+          <a href="https://www.flickr.com/photos/ondrejsika/albums/72157667894632618" target="_blank">
+            2018
+          </a>, <a href="https://www.flickr.com/photos/ondrejsika/albums/72157674508120208" target="_blank">
+            2018 II
+          </a>, <a href="https://www.flickr.com/photos/ondrejsika/albums/72157674508120208" target="_blank">
+            2018 III
+          </a>
+        </p>
+        <p>
+          <a href="https://www.flickr.com/photos/ondrejsika/albums/72157663512883808/with/38967102201/" target="_blank">
+            2017
+          </a>
+        </p>
+        <p>
+          <a href="https://www.instagram.com/explore/tags/ondrej_and_iceland/" target="_blank">
+            #ondrej_and_iceland
+          </a> on Instagram
+        </p>
         <p
           style={{
             marginTop: "3em",
