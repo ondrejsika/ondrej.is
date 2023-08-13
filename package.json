@@ -1,0 +1,19 @@
+{
+  "name": "ondrej-is",
+  "license": "MIT",
+  "scripts": {
+    "prettier-check": "prettier -l .",
+    "prettier-write": "prettier --write .",
+    "dev": "next",
+    "static": "next build && next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "eslint": "^8.47.0",
+    "eslint-config-next": "^13.4.13",
+    "next": "^13.4.13",
+    "prettier": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
