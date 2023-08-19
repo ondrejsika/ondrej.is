@@ -26,6 +26,11 @@ export default function Home() {
           </a> on Instagram
         </p>
         <p>
+          <a href="https://t.me/ondrej_and_iceland" target="_blank">
+            @ondrej_and_iceland
+          </a> on Telegram (Channel)
+        </p>
+        <p>
           <a href="https://ondrejsika.notion.site/ondrejsika/bda91864785f437cb1708ed851d39627" target="_blank">
             Where to go
           </a> in Iceland (Notion page)
