@@ -40,6 +40,11 @@ export default function Home() {
             City Car Rental Iceland
           </a>, cheap & proven car rental
         </p>
+        <p>
+          <a href="https://ondrejsika.notion.site/ondrejsika/9ea68eb23bde499fb077eb82351c62c6" target="_blank">
+            Flying in Iceland
+          </a> (Notion page)
+        </p>
         <h4 style={{ margin: "2em 0 0 0" }}>Photos</h4>
         <p>
           <a href="https://www.flickr.com/photos/ondrejsika/albums/72157667894632618" target="_blank">
