@@ -40,6 +40,11 @@ export default function Home() {
             @ondrej_and_iceland
           </a> on Telegram (Channel)
         </p>
+        <p>
+          <a href="https://pilot.ondrej.is" target="_blank">
+            pilot.ondrej.is
+          </a> flying in Iceland
+        </p>
         <h4 style={{ margin: "2em 0 0 0" }}>Photos</h4>
         <p>
           <a href="https://www.flickr.com/photos/ondrejsika/albums/72157667894632618" target="_blank">
